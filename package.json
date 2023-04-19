@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "string-to-binary": "^0.1.2"
-  }
+  }, 
+  "type" :"module"
 }
